@@ -116,6 +116,6 @@ Start with the latest version of NPM to avoid any errors:
 
 8. Ability to draw lines and shapes instead of just points.
 
-9. Geocode location from coordinates (“Run in Shoghi, Shimla).
+9. Geocode location from coordinates.
 
 10. Display weather data for workout time and place.
